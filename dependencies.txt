@@ -1,0 +1,27 @@
+dependencies:
+
+spring boot starter test
+spring boot starter parent
+spring boot starter web
+spring boot devtools 
+
+Actual CRUD steps:
+1)sts / spring io initialyzr create a maven project
+2) src/main/java -
+
+1.com.entity
+declaration of variables
+@Entity
+@Table(name="")
+@Id
+@GeneratedValue(strategy= GenerationType.AUTO)
+variables
+constructor 
+setter and getters 
+toString
+
+
+
+
+
+
